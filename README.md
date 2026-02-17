@@ -1,0 +1,76 @@
+# JO1 – SuperCali
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.33] Supercalifragilisticexpialidocious
+[00:06.74] 俺を目覚めさせる 自由なfeeling
+[00:10.07] Supercalifragilisticexpialidocious
+[00:13.85] 忘れろ今までのmirage
+[00:20.35] 
+[00:17.69] Woo 荒れちまった砂漠
+[00:21.88] 渦巻いてもsandstorm (damn)
+[00:25.03] 見えなくてもmilestone (yea, yea)
+[00:28.36] I know I can find the way
+[00:40.86] 
+[00:29.50] Up and down うろつく太陽
+[00:32.57] 俺を always why?
+[00:34.58] 試す patience
+[00:35.91] 終わらない déjà vu
+[00:37.47] 打ち破るぞきっと
+[00:39.00] So don't forget it
+[00:48.00] 
+[00:43.05] 幻想に騙されずもう 恐れずにもう
+[00:51.05] 
+[00:49.54] Gotta run a- run a- run away (run away)
+[00:52.55] 動き出した運命のturn (ay, ay, ay)
+[00:56.37] Better run a- run a- run away (run away)
+[00:59.37] 押し切って全て
+[01:01.54] Finally I got
+[01:08.04] 
+[01:03.37] Supercalifragilisticexpialidocious
+[01:06.87] 胸を動かす奇妙な響き
+[01:10.09] Supercalifragilisticexpialidocious
+[01:14.13] Don't you know
+[01:21.13] 
+[01:17.03] Yo! 脳裏に浮かぶイメージを具現化全て Got it (got it)
+[01:22.08] Fly out 目指す先は遥か上のlevel
+[01:25.26] Don't stop 鮮明になる Vision
+[01:28.02] Bling-bling 輝きだす
+[01:30.07] That's how I'm shining
+[01:41.07] 
+[01:31.72] Ay! この運命さえも変えられる I swear
+[01:36.16] 信じて Move on
+[01:37.30] 遮るものを突破
+[01:39.37] 決してしない Slow down
+[01:40.83] I got to go on
+[01:47.83] 
+[01:44.76] 幻想に騙されずもう 恐れずにもう
+[01:52.76] 
+[01:51.26] Gotta run a- run a- run away (run away)
+[01:54.21] 動き出した運命のturn
+[01:58.19] Better run a- run a- run away (run away)
+[02:00.93] 押し切って全て
+[02:03.32] Finally I got
+[02:09.82] 
+[02:05.07] Deal with devil for the top, don't scare
+[02:08.32] 遠くない手伸ばして
+[02:11.53] Deal with devil for the top, don't scare
+[02:15.04] すぐ目の前 My dreams light up
+[02:27.04] 
+[02:18.53] 全力で want it 100度 向け run it
+[02:21.59] 無意味さ 高い壁 My passion I own it
+[02:24.99] 全力で want it 100度 超え run it
+[02:28.09] つかめ 吹いて来る運命を I own it
+[02:38.59] 
+[02:31.56] Supercalifragilisticexpialidocious
+[02:35.06] 胸を動かす奇妙な響き
+[02:38.23] Supercalifragilisticexpialidocious
+[02:42.64] Don't you know
+[02:49.64] 
+[02:45.04] Supercalifragilisticexpialidocious
+[02:48.32] 俺を目覚めさせる 自由なfeeling
+[02:51.77] Supercalifragilisticexpialidocious
+[02:55.58] You can ask me
+[02:56.60] Now, what's the next?
+```
